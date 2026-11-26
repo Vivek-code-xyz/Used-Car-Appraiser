@@ -14,7 +14,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-000000?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-000000?style=for-the-badge)
 
-**[Live Demo](https://YOUR-APP-NAME.streamlit.app)** &nbsp;|&nbsp; **[Notebook](notebooks/car_price_prediction.ipynb)** &nbsp;|&nbsp; **[Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)**
+**[View Live Demo](https://used-car-appreiserr.streamlit.app)** &nbsp;|&nbsp; **[Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)**
 
 </div>
 
